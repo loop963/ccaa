@@ -51,6 +51,3 @@ unzip master.zip && cd ccaa-master && sh ccaa.sh
 * QQ: 337003006
 * 技术交流群: 147687134
 
-### 请我喝一杯咖啡
-
-![](https://imgurl.org/upload/1712/cb349aa4a1b95997.png)
