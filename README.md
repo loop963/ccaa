@@ -23,6 +23,14 @@ CentOS + Caddy + Aria2 + AriaNg，实现离线下载、文件管理、在线播�
 
 ### 安装CCAA
 
+安装方法：
+
+yum -y install wget unzip curl
+wget https://github.com/helloxz/ccaa/archive/master.zip
+unzip master.zip && cd ccaa-master && sh ccaa.sh
+
+复制代码
+
 请参考帮助文档：[http://doc.xiaoz.top/#/ccaa/](http://doc.xiaoz.top/#/ccaa/)
 
 ### 部分截图
